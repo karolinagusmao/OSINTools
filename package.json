@@ -1,0 +1,16 @@
+{
+  "name": "osintools",
+  "version": "1.0.0",
+  "description": "OSINTools é um projeto pessoal desenvolvido para reunir e organizar ferramentas de Open Source Intelligence (OSINT). O site oferece uma interface simples e intuitiva, onde os usuários podem acessar rapidamente links para diversas ferramentas de OSINT, categorizadas por tipo de análise.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.4.0"
+  }
+}

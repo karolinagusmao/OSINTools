@@ -2,41 +2,30 @@
 
 OSINTools é um projeto pessoal desenvolvido para reunir e organizar ferramentas de Open Source Intelligence (OSINT). O site oferece uma interface simples e intuitiva, onde os usuários podem acessar rapidamente links para diversas ferramentas de OSINT, categorizadas por tipo de análise.
 
-## Estrutura do Projeto
-
-O projeto é composto por três arquivos principais:
-
-1. **index.html**: Contém a estrutura HTML do site.
-2. **styles.css**: Contém os estilos CSS para o design e layout do site.
-3. **scripts.js**: Contém o código JavaScript para adicionar interatividade ao site.
-
-### Estrutura de Diretórios
-
-/ (root)
-├── index.html
-├── css
-│ └── styles.css
-└── js
-└── scripts.js
-
 ## Funcionalidades
 
 ### Username Search
+
 Ferramentas nesta categoria ajudam a encontrar usernames em várias plataformas online. Isso é útil para identificar a presença de um indivíduo ou entidade em diferentes redes sociais e serviços online.
 
 ### Network Scanning
+
 Essas ferramentas permitem a análise e varredura de redes, ajudando a identificar dispositivos conectados, portas abertas e vulnerabilidades na rede.
 
 ### Graph Analysis
+
 Ferramentas para análise gráfica são usadas para visualizar e analisar relações e conexões entre diferentes entidades, como pessoas, organizações e eventos.
 
 ### Google Hacking
+
 Ferramentas e técnicas de Google Hacking permitem realizar buscas avançadas no Google para encontrar informações específicas e muitas vezes sensíveis que não são facilmente acessíveis.
 
 ### Email Search
+
 Estas ferramentas ajudam a verificar a existência e a segurança de endereços de email, identificando se um email foi comprometido em violações de dados.
 
 ### Social Media Analysis
+
 Ferramentas para análise de redes sociais ajudam a monitorar, analisar e obter insights sobre a atividade em diversas plataformas de mídia social.
 
 ## Como Usar
